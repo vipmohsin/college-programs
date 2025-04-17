@@ -19,5 +19,5 @@ for($i = 0; $i < $len ; $i++){
     }
 }
 echo "Input : <b>$name</b> <br> The Number of vowels in Given name are <b>$vowel_count</b> <br> They are <b>$vowels";
-
+ 
 ?>
